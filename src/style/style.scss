@@ -2,6 +2,6 @@
 @import './header';
 
 .contact{
-    @include flexCenter();
+    @include flexCenter(column);
 }
 
