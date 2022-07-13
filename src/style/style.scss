@@ -1,6 +1,17 @@
+$primaryBtn: rgb(10, 64, 82);
+
 .header{
     background-color: lightblue;
     display: flex;
     justify-content: center;
     align-items: center;
+    button{
+        background: $primaryBtn;
+        color: white;
+        &:hover{
+            background: red;
+            color: white;
+        }
+    }
 }
+
