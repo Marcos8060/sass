@@ -12,4 +12,11 @@
 .header button:hover {
   background: red;
   color: white;
+}
+
+.contact {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */
