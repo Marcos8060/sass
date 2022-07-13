@@ -1,8 +1,9 @@
 .header {
-  background-color: lightblue;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: lightblue;
 }
 .header button {
   background: rgb(10, 64, 82);
